@@ -1,4 +1,4 @@
-
+Leveraged HTML, CSS, Django, and Bootstrap to create a dynamic and visually appealing personal portfolio website. Successfully showcased my skills and projects, highlighting my proficiency in web development technologies.
 
 Some Glimpses of my Portfolio
 
